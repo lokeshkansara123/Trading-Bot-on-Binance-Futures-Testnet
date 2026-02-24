@@ -1,0 +1,4 @@
+2026-02-24 15:36:48,236 - INFO - Request: BTCUSDT BUY MARKET 0.01 None
+2026-02-24 15:36:48,236 - ERROR - API Secret required for private endpoints
+2026-02-24 15:37:20,472 - INFO - Request: BTCUSDT SELL LIMIT 0.01 50000.0
+2026-02-24 15:37:20,472 - ERROR - API Secret required for private endpoints
